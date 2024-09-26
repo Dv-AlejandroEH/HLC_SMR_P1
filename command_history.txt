@@ -1,2 +1,2 @@
-git clone https://github.com/Dv-AlejandroEH/HLC_SMR_P1.git
+Conflicto
 git checkout -b alejandro_espinolahernandez_v1
