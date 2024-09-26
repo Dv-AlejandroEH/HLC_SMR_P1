@@ -1,2 +1,1 @@
-git clone https://github.com/Dv-AlejandroEH/HLC_SMR_P1.git
 git checkout -b alejandro_espinolahernandez_v1
